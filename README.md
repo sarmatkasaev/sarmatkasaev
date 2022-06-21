@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Full stack mobile developer
+
+React Native SwiftUI NestJS
+
+i'm using
 [![My Skills](https://skillicons.dev/icons?i=ts,react,redux,nextjs,nodejs,nestjs,docker,mongodb,redis,swift,figma)](https://skillicons.dev)
 
 
