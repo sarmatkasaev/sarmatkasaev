@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,nextjs,nodejs,nestjs,docker,mongodb,redis,swift,figma)](https://skillicons.dev)
+
+
 <!--
 **sarmatkasaev/sarmatkasaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
