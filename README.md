@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full stack mobile developer
+I'm Full stack mobile developer
 
 React Native SwiftUI NestJS
 
