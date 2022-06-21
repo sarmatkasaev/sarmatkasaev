@@ -1,4 +1,4 @@
-### Hi there 👋  ##I'm Full stack mobile developer
+### Hi there 👋  I'm Sarmat, Fullstack mobile developer
 
 React Native SwiftUI NestJS
 
