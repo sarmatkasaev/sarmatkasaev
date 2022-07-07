@@ -1,6 +1,6 @@
-### Hi there 👋  I'm Sarmat, Fullstack mobile developer
+### Hi there 👋  I'm Sarmat, Fullstack developer
 
-React Native SwiftUI NestJS
+React Native SwiftUI Next.js NestJS
 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,redux,nextjs,nodejs,nestjs,docker,mongodb,redis,swift,figma)](https://skillicons.dev)
