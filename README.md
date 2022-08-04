@@ -3,7 +3,7 @@
 React Native SwiftUI Next.js NestJS
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,nextjs,nodejs,nestjs,docker,mongodb,redis,swift,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,nextjs,styledcomponents,nodejs,nestjs,docker,mongodb,redis,swift,figma,supabase)](https://skillicons.dev)
 
 
 <!--
