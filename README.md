@@ -1,9 +1,9 @@
 ### Hi there 👋  I'm Sarmat, Fullstack developer
 
-React Native SwiftUI Next.js NestJS
+React Native Next.js NestJS Go
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,nextjs,styledcomponents,nodejs,nestjs,docker,mongodb,redis,swift,figma,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,nextjs,styledcomponents,swift,figma,nodejs,nestjs,docker,mongodb,redis,go,graphql)](https://skillicons.dev)
 
 
 <!--
